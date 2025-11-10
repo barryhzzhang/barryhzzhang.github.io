@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+<img src="/images/profile.png"
+     alt="Barry Zhang"
+     style="width:250px; display:block; margin:auto;" />
+
+
 Welcome! I am a photonic engineer applying advanced simulation and fabrication techniques to design high-performance integrated photonic devices for sensing and optical communication.
 
 I earned my Ph.D. in Molecular Engineering (Optoelectronics Focus) from the University of Chicago, where my research centered on the design, fabrication, and optical characterization of advanced photonic and optoelectronic devices using mercury chalcogenide nanocrystals. My doctoral work combined simulation-driven design with Lumerical FDTD and COMSOL Multiphysics, integrated with cleanroom fabrication and metrology for experimental validation.
